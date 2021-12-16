@@ -1,2 +1,2 @@
 # aviation_weather
-Python Code to download and parse aviation TAFs and METARs
+python code to download and parse aviation TAFs and METARs
